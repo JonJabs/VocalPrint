@@ -1,0 +1,33 @@
+# VocalPrint: AI-Powered Vocal Mixing Tool
+
+VocalPrint is an AI tool designed to transform raw vocals into professionally mixed tracks by applying mix filters inspired by top artists such as Drake, The Weeknd, and others. With VocalPrint, you can apply the exact mix style of a famous artist to your raw vocals in real-time.
+
+## What is a Mix Filter?
+
+Unlike typical vocal filters, which modify the tone or pitch of a voice, **VocalPrint** applies a **mix filter**. It doesn't simply modify your vocal but instead **prints** the exact sound of the trained acapella datasets (such as those from Drake, The Weeknd, etc.) onto your raw vocal. This tool captures and transfers the mix characteristics (EQ, compression, reverb, etc.) from the artist's acapella dataset to your vocal.
+
+### How Does It Work?
+
+1. **Training on Professional Vocals**: VocalPrint is trained on high-quality acapella datasets from famous artists. The AI learns the mix characteristics such as EQ, compression, reverb, and more.
+   
+2. **Printing the Artist's Mix onto Your Vocal**: Once trained, the model applies the mix style of the chosen artist’s dataset to your raw vocal. The AI will transfer the exact mix from the trained dataset and “print” it onto your vocal. It’s like transforming your raw vocal into the same mix style used by artists like Drake.
+
+3. **Exact Feel Transfer**: The model doesn’t alter your vocal itself. Instead, it transfers the *exact* feel and mix characteristics learned from the dataset to your raw vocal, making it sound as if it was mixed exactly like the artist’s voice.
+
+### Example Use Case
+
+- **Raw Vocal**: Your unprocessed vocal recording.
+- **Processed Vocal**: Your vocal will be transformed with a professional mix, capturing the exact mix characteristics of artists like Drake or The Weeknd.
+
+## Why Use VocalPrint?
+
+- **Customization**: Choose from various artist-inspired mix filters.
+- **Realism**: Achieve a mix that mirrors the specific sound profile and feel of top artists.
+- **Efficiency**: Real-time processing that brings your vocal recordings to a professional standard without needing advanced mixing skills.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/VocalPrint.git
