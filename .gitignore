@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Node.js dependencies
+node_modules/
+
+# Frontend build files
+frontend/build/
