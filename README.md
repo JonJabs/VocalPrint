@@ -66,7 +66,8 @@ We welcome contributions! Here’s how you can help:
 - Open a pull request!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is proprietary and closed-source. All rights reserved by [Jonathan Jabiru].
+Use of this software is subject to approval. Contact [Jonjab33@yahoo.com] for licensing.
 
 ## Acknowledgements
 - The tool uses **deep learning models** to replicate the mixing styles of famous artists.
